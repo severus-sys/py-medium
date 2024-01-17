@@ -18,8 +18,10 @@ positional arguments:
 options:
   -h, --help    show this help message and exit
 ```
+### API USAGE
 
-
+http://127.0.0.1:8000/predict 
+ 
 ## Installation
 
 Install depth estimation project  with pip
